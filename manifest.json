@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.khaledsayed93.task-manager",
+  "name": "Task Manager",
+  "version": "1.0.0",
+  "author": "Khaled Sayed",
+  "license": "MIT",
+  "description": "Fast and lightweight task manager and process monitor for Omarchy",
+  "repository": "https://github.com/khaledSayed93/omarchy-task-manager",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Task Manager",
+    "description": "Lightweight process monitor and task manager with CPU/memory sorting, live filtering, and process termination",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
