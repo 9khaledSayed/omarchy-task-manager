@@ -8,7 +8,7 @@ import "Model.js" as Model
 
 Panel {
   id: root
-  moduleName: "io.github.khaledsayed93.task-manager"
+  moduleName: "io.github.9khaledsayed.task-manager"
   manageIpc: false
 
   property var anchorItem: null

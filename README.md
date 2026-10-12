@@ -22,7 +22,7 @@ A fast, lightweight, and responsive Task Manager & Process Monitor for Omarchy Q
 Install directly via Omarchy:
 
 ```bash
-omarchy plugin add https://github.com/khaledSayed93/omarchy-task-manager.git --enable
+omarchy plugin add https://github.com/9khaledSayed/omarchy-task-manager.git --enable
 ```
 
 ## Removal
@@ -31,10 +31,10 @@ To disable or remove the plugin:
 
 ```bash
 # Disable from the bar
-omarchy plugin disable io.github.khaledsayed93.task-manager
+omarchy plugin disable io.github.9khaledsayed.task-manager
 
 # Or remove completely
-omarchy plugin remove io.github.khaledsayed93.task-manager --yes
+omarchy plugin remove io.github.9khaledsayed.task-manager --yes
 ```
 
 ## Usage

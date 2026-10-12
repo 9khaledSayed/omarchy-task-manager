@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "io.github.khaledsayed93.task-manager",
+  "id": "io.github.9khaledsayed.task-manager",
   "name": "Task Manager",
   "version": "1.0.0",
   "author": "Khaled Sayed",
   "license": "MIT",
   "description": "Fast and lightweight task manager and process monitor for Omarchy",
-  "repository": "https://github.com/khaledSayed93/omarchy-task-manager",
+  "repository": "https://github.com/9khaledSayed/omarchy-task-manager",
   "kinds": [
     "bar-widget"
   ],

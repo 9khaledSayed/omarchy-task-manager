@@ -4,7 +4,7 @@ import qs.Ui
 
 BarWidget {
   id: root
-  moduleName: "io.github.khaledsayed93.task-manager"
+  moduleName: "io.github.9khaledsayed.task-manager"
 
   readonly property bool opened: panelLoader.item
     ? panelLoader.item.opened === true
