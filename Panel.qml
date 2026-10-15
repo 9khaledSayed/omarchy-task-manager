@@ -68,7 +68,7 @@ Panel {
 
   Process {
     id: psProc
-    command: ["ps", "-eo", "pid,user,%cpu,%mem,comm", "--sort=-%cpu", "--no-headers"]
+    command: ["ps", "-eo", "pid,user:64,%cpu,%mem,comm", "--sort=-%cpu", "--no-headers"]
     stdout: StdioCollector {
       id: psOut
       waitForEnd: true
